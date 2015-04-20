@@ -1,2 +1,2 @@
 # PointBlank-Reverser
-# A point blank class reverser.
+A point blank class reverser.
