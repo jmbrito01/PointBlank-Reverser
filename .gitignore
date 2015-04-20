@@ -41,3 +41,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+Debug/thiscall.txt
+*.obj
+*.tlog
+*.log
+PointBlank Reverser.opensdf
+*.ilk
+Debug/PointBlank Reverser.pdb
+*.sdf
+PointBlank Reverser/Debug/Resources.res
+*.idb
+PointBlank Reverser/Debug/vc140.pdb
+PointBlank Reverser/Resources.aps
+PointBlank Reverser/thiscall.txt
